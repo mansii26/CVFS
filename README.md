@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # Customised-Virtual-File-System
 
@@ -63,11 +63,11 @@ C programming
 
 
 
-## Refrence
+## Reference
 
 - Linux System programming by Robert Love
 
-<<<<<<< HEAD
+
 =======
 
 >>>>>>> 6ffece2f8781266aed18caee92d8f5ee209504ee
